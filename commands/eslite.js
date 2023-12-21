@@ -29,7 +29,7 @@ export default async (event) => {
       bubbles.push(template)
     })
 
-    const dataBook1 = _.chunk(bubbles, 5)
+    const dataBook1 = _.chunk(bubbles, 12)
 
     const result = await event.reply({
       type: 'flex',
