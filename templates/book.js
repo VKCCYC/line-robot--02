@@ -7,7 +7,7 @@ export default () => {
         hero: {
           type: 'image',
           size: 'full',
-          aspectRatio: '20:25',
+          aspectRatio: '20:26',
           aspectMode: 'cover',
           url: 'https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png'
         },
@@ -69,7 +69,7 @@ export default () => {
         hero: {
           type: 'image',
           size: 'full',
-          aspectRatio: '20:25',
+          aspectRatio: '20:26',
           aspectMode: 'cover',
           url: 'https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_6_carousel.png'
         },
