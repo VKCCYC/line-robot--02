@@ -8,7 +8,7 @@ export default () => {
           type: 'image',
           size: 'full',
           aspectRatio: '20:25',
-          aspectMode: 'cover',
+          aspectMode: 'contain',
           url: 'https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png'
         },
         body: {
@@ -70,7 +70,7 @@ export default () => {
           type: 'image',
           size: 'full',
           aspectRatio: '20:25',
-          aspectMode: 'cover',
+          aspectMode: 'contain',
           url: 'https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_6_carousel.png'
         },
         body: {
